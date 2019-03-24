@@ -43,5 +43,4 @@ class Song
       hash[artist] = @@artists.count(artist)}
       hash
   end
-
 end
